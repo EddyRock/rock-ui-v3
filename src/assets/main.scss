@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/Inter.ttf');
+}
+
+@import './_reset.scss';
+@import './_colors.scss';
+
+* {
+  font-family: 'Inter', sans-serif;
+}
